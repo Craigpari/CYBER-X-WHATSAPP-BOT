@@ -1,5 +1,5 @@
 {
-    "name": "Cyber-X WhatsApp Bot",
+    "name": "ZW Mp3 Store",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
     "repository": "https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT",
     "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
@@ -11,7 +11,7 @@
         "Multi Device"
     ],
     "env": {
-        "SESSION_ID": {
+        "SESSION_ID": {2@6eB6WR0v2sQWLgIGn1VQi2pnYADY21k1dIuqiGajroBuCJ2VohYAmX+lPwrYV0ByIiwAa61+bbdtFg==,mzhp83+NlogDGLq9XE+2L92aKq9Tmzo+I6o1w9xxVUw=,qWtEL/klbvkTyPzJkSfAIE6hO7bj6lH552sOioMymFc=,Lupfa6wah55XqNZiTOSilDSQtBVBVpXxh1hgnxMSuj8=
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
             "value": ""
