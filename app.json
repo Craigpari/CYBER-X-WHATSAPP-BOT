@@ -11,7 +11,7 @@
         "Multi Device"
     ],
     "env": {
-        "SESSION_ID": {2@6eB6WR0v2sQWLgIGn1VQi2pnYADY21k1dIuqiGajroBuCJ2VohYAmX+lPwrYV0ByIiwAa61+bbdtFg==,mzhp83+NlogDGLq9XE+2L92aKq9Tmzo+I6o1w9xxVUw=,qWtEL/klbvkTyPzJkSfAIE6hO7bj6lH552sOioMymFc=,Lupfa6wah55XqNZiTOSilDSQtBVBVpXxh1hgnxMSuj8=
+        "SESSION_ID": {"2@6eB6WR0v2sQWLgIGn1VQi2pnYADY21k1dIuqiGajroBuCJ2VohYAmX+lPwrYV0ByIiwAa61+bbdtFg==,mzhp83+NlogDGLq9XE+2L92aKq9Tmzo+I6o1w9xxVUw=,qWtEL/klbvkTyPzJkSfAIE6hO7bj6lH552sOioMymFc=,Lupfa6wah55XqNZiTOSilDSQtBVBVpXxh1hgnxMSuj8="
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
             "value": ""
